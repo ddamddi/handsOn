@@ -7,3 +7,10 @@
 - 20154490 김정빈 (Tester)  
 - 20172129 박예솔 (QA)  
 - 20172129 이류명 (QA)  
+
+### 개발환경
+- Front-end
+  - Vue.js
+- Back-end
+  - Django
+  - Amazon AWS
